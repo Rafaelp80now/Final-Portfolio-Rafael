@@ -76,3 +76,10 @@ img {
   border: 2px solid black;
   margin-top: 20px;
 }
+.imagen-derecha {
+  float: right; 
+  margin-left: 20px;
+  margin-bottom: 20px; 
+  width: 180px; 
+  height: auto; 
+}
